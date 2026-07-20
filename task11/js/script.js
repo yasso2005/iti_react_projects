@@ -1,5 +1,5 @@
 var firstname= "yasmine"; //string
-var myage="20";  //number
+var myage=20;  //number
 var isgraduated= false; // boolean
 var jobsalary= null; //null
 var jobtitle= undefined ;//undefined
