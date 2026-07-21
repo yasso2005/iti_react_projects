@@ -1,0 +1,25 @@
+*{ margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+ .maindiv {
+
+ /* background-color: blueviolet; */
+ height: 80vh;
+ margin :0 auto;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ text-align: center;
+ align-items: center;
+ align-content: center;
+ }
+ .item {
+justify-content: center;
+height: fit-content;
+ }
+.btn {
+    background-color: rgb(104, 29, 175);
+    border: dashed black;
+}
